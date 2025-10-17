@@ -1,4 +1,4 @@
-name: Manual
+name: Deploy to SNF
 
 on:
   workflow_dispatch:
